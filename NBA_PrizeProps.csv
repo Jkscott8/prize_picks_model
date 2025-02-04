@@ -1,0 +1,535 @@
+League,PlayerName,Stat,PropLine,Type
+NBA,Anfernee Simons + Kevin Durant,Points (Combo),45.5,standard
+NBA,Deandre Ayton + Nick Richards,Rebounds (Combo),20.5,standard
+NBA,Anfernee Simons + Devin Booker,Assists (Combo),11.0,standard
+NBA,Anfernee Simons + Devin Booker,3-PT Made (Combo),5.5,standard
+NBA,Stephen Curry + Franz Wagner,Points (Combo),48.0,standard
+NBA,Stephen Curry + Paolo Banchero,3-PT Made (Combo),5.5,standard
+NBA,Franz Wagner,Pts+Rebs,30.0,standard
+NBA,Franz Wagner,Points,24.5,standard
+NBA,Franz Wagner,Pts+Asts,29.0,standard
+NBA,Franz Wagner,Fantasy Score,40.0,standard
+NBA,Franz Wagner,Blks+Stls,1.5,standard
+NBA,Franz Wagner,Rebs+Asts,9.5,standard
+NBA,Franz Wagner,Pts+Rebs+Asts,34.5,standard
+NBA,Franz Wagner,Turnovers,2.5,standard
+NBA,Stephen Curry,FG Attempted,18.5,standard
+NBA,Stephen Curry,3-PT Attempted,10.0,standard
+NBA,Stephen Curry,Fantasy Score,38.5,standard
+NBA,Stephen Curry,Offensive Rebounds,0.5,standard
+NBA,Stephen Curry,Rebs+Asts,10.0,standard
+NBA,Stephen Curry,Pts+Asts,29.5,standard
+NBA,Stephen Curry,Pts+Rebs,27.5,standard
+NBA,Stephen Curry,Defensive Rebounds,4.0,standard
+NBA,Stephen Curry,FG Made,8.0,standard
+NBA,Stephen Curry,Pts+Rebs+Asts,33.5,standard
+NBA,Stephen Curry,Points,23.5,standard
+NBA,Stephen Curry,Free Throws Made,3.5,standard
+NBA,Stephen Curry,Assists,5.5,standard
+NBA,Paolo Banchero,Rebounds,7.0,standard
+NBA,Andrew Wiggins,Offensive Rebounds,1.5,standard
+NBA,Andrew Wiggins,3-PT Attempted,5.0,standard
+NBA,Andrew Wiggins,FG Made,6.5,standard
+NBA,Andrew Wiggins,Defensive Rebounds,3.0,standard
+NBA,Andrew Wiggins,Dunks,0.5,standard
+NBA,Paolo Banchero,3-PT Made,1.5,standard
+NBA,Paolo Banchero,Pts+Rebs+Asts,35.0,standard
+NBA,Paolo Banchero,Fantasy Score,39.5,standard
+NBA,Paolo Banchero,Points,22.5,standard
+NBA,Paolo Banchero,Rebs+Asts,12.0,standard
+NBA,Paolo Banchero,Pts+Asts,28.0,standard
+NBA,Andrew Wiggins,Free Throws Made,3.0,standard
+NBA,Paolo Banchero,Pts+Rebs,30.5,standard
+NBA,Andrew Wiggins,FG Attempted,15.0,standard
+NBA,Andrew Wiggins,Fantasy Score,30.5,standard
+NBA,Andrew Wiggins,Rebounds,5.0,standard
+NBA,Buddy Hield,3-PT Attempted,6.0,standard
+NBA,Buddy Hield,FG Made,3.5,standard
+NBA,Buddy Hield,Offensive Rebounds,0.5,standard
+NBA,Buddy Hield,FG Attempted,8.5,standard
+NBA,Andrew Wiggins,Rebs+Asts,7.0,standard
+NBA,Andrew Wiggins,Turnovers,1.5,standard
+NBA,Andrew Wiggins,Pts+Rebs,23.5,standard
+NBA,Andrew Wiggins,Pts+Asts,20.0,standard
+NBA,Andrew Wiggins,Points,18.0,standard
+NBA,Andrew Wiggins,Pts+Rebs+Asts,26.0,standard
+NBA,Dennis Schröder,FG Made,3.5,standard
+NBA,Dennis Schröder,3-PT Attempted,3.5,standard
+NBA,Dennis Schröder,FG Attempted,8.5,standard
+NBA,Dennis Schröder,Free Throws Made,1.5,standard
+NBA,Moses Moody,Offensive Rebounds,0.5,standard
+NBA,Moses Moody,FG Made,3.0,standard
+NBA,Moses Moody,3-PT Attempted,4.0,standard
+NBA,Buddy Hield,Pts+Rebs,12.5,standard
+NBA,Buddy Hield,Points,9.0,standard
+NBA,Buddy Hield,Pts+Rebs+Asts,14.0,standard
+NBA,Buddy Hield,Pts+Asts,11.5,standard
+NBA,Wendell Carter Jr.,Pts+Rebs,14.5,standard
+NBA,Wendell Carter Jr.,Fantasy Score,21.0,standard
+NBA,Wendell Carter Jr.,Pts+Rebs+Asts,16.5,standard
+NBA,Wendell Carter Jr.,Assists,1.5,standard
+NBA,Wendell Carter Jr.,Rebounds,6.5,standard
+NBA,Wendell Carter Jr.,Rebs+Asts,8.0,standard
+NBA,Wendell Carter Jr.,Points,8.5,standard
+NBA,Dennis Schröder,Points,9.5,standard
+NBA,Dennis Schröder,Rebs+Asts,6.5,standard
+NBA,Dennis Schröder,Pts+Rebs+Asts,15.5,standard
+NBA,Dennis Schröder,Pts+Rebs,12.0,standard
+NBA,Dennis Schröder,Assists,4.0,standard
+NBA,Dennis Schröder,Pts+Asts,13.5,standard
+NBA,Dennis Schröder,Fantasy Score,20.5,standard
+NBA,Kentavious Caldwell-Pope,Pts+Rebs,9.5,standard
+NBA,Kentavious Caldwell-Pope,Assists,1.5,standard
+NBA,Kentavious Caldwell-Pope,Pts+Rebs+Asts,11.5,standard
+NBA,Kentavious Caldwell-Pope,Pts+Asts,9.5,standard
+NBA,Kentavious Caldwell-Pope,Points,7.5,standard
+NBA,Kentavious Caldwell-Pope,Blks+Stls,1.5,standard
+NBA,Moses Moody,Pts+Asts,9.5,standard
+NBA,Moses Moody,Pts+Rebs+Asts,12.5,standard
+NBA,Moses Moody,Points,8.5,standard
+NBA,Moses Moody,Pts+Rebs,11.5,standard
+NBA,Moses Moody,Turnovers,0.5,standard
+NBA,Goga Bitadze,Steals,0.5,standard
+NBA,Goga Bitadze,Pts+Rebs,13.5,standard
+NBA,Goga Bitadze,Pts+Rebs+Asts,16.0,standard
+NBA,Goga Bitadze,Points,6.5,standard
+NBA,Goga Bitadze,Rebounds,7.0,standard
+NBA,Goga Bitadze,Fantasy Score,24.5,standard
+NBA,Goga Bitadze,Rebs+Asts,9.0,standard
+NBA,Anthony Black,Points,8.0,standard
+NBA,Anthony Black,Pts+Rebs,11.5,standard
+NBA,Anthony Black,Pts+Rebs+Asts,14.5,standard
+NBA,Draymond Green,Pts+Rebs+Asts,16.5,standard
+NBA,Draymond Green,Pts+Rebs,12.5,standard
+NBA,Draymond Green,Points,6.5,standard
+NBA,Brandin Podziemski,Assists,2.5,standard
+NBA,Brandin Podziemski,Pts+Rebs+Asts,14.5,standard
+NBA,Brandin Podziemski,Pts+Rebs,11.5,standard
+NBA,Brandin Podziemski,Points,7.5,standard
+NBA,Tristan Da Silva,Points,5.5,standard
+NBA,Jonathan Isaac,Points,5.5,standard
+NBA,Cole Anthony,Points,9.5,standard
+NBA,Franz Wagner,Rebounds,7.5,demon
+NBA,Kentavious Caldwell-Pope,3-PT Made,0.5,goblin
+NBA,Paolo Banchero,Points,17.5,goblin
+NBA,Moses Moody,Points,14.5,demon
+NBA,Paolo Banchero,Rebounds,5.5,goblin
+NBA,Paolo Banchero,Points,29.5,demon
+NBA,Franz Wagner,3-PT Made,1.5,goblin
+NBA,Dennis Schröder,Assists,6.5,demon
+NBA,Andrew Wiggins,Points,25.5,demon
+NBA,Stephen Curry,3-PT Made,5.5,demon
+NBA,Buddy Hield,Blocked Shots,0.5,demon
+NBA,Franz Wagner,Blocked Shots,0.5,demon
+NBA,Dennis Schröder,Blocked Shots,0.5,demon
+NBA,Stephen Curry,Blocked Shots,0.5,demon
+NBA,Dennis Schröder,Points,15.5,demon
+NBA,Goga Bitadze,Assists,2.5,demon
+NBA,Kentavious Caldwell-Pope,Points,12.5,demon
+NBA,Paolo Banchero,Rebounds,10.5,demon
+NBA,Goga Bitadze,Rebounds,5.5,goblin
+NBA,Franz Wagner,Assists,6.5,demon
+NBA,Buddy Hield,3-PT Made,1.5,goblin
+NBA,Wendell Carter Jr.,3-PT Made,1.5,demon
+NBA,Buddy Hield,Points,15.5,demon
+NBA,Buddy Hield,3-PT Made,3.5,demon
+NBA,Moses Moody,Blocked Shots,0.5,demon
+NBA,Stephen Curry,Rebounds,3.5,goblin
+NBA,Moses Moody,Rebounds,3.5,demon
+NBA,Dennis Schröder,Assists,2.5,goblin
+NBA,Andrew Wiggins,Assists,2.5,demon
+NBA,Buddy Hield,Assists,2.5,demon
+NBA,Andrew Wiggins,Rebounds,3.5,goblin
+NBA,Kentavious Caldwell-Pope,Blocked Shots,0.5,demon
+NBA,Stephen Curry,Rebounds,6.5,demon
+NBA,Wendell Carter Jr.,Points,12.5,demon
+NBA,Stephen Curry,Points,17.5,goblin
+NBA,Buddy Hield,Rebounds,3.5,demon
+NBA,Franz Wagner,Points,32.5,demon
+NBA,Franz Wagner,Points,19.5,goblin
+NBA,Dennis Schröder,3-PT Made,0.5,goblin
+NBA,Stephen Curry,3-PT Made,2.5,goblin
+NBA,Andrew Wiggins,Steals,0.5,goblin
+NBA,Dennis Schröder,Rebounds,3.5,demon
+NBA,Andrew Wiggins,Rebounds,7.5,demon
+NBA,Stephen Curry,Assists,4.5,goblin
+NBA,Moses Moody,3-PT Made,2.5,demon
+NBA,Stephen Curry,Assists,7.5,demon
+NBA,Stephen Curry,Steals,0.5,goblin
+NBA,Andrew Wiggins,3-PT Made,1.5,goblin
+NBA,Andrew Wiggins,3-PT Made,3.5,demon
+NBA,Dennis Schröder,3-PT Made,2.5,demon
+NBA,Goga Bitadze,Points,3.5,goblin
+NBA,Wendell Carter Jr.,Assists,2.5,demon
+NBA,Kentavious Caldwell-Pope,Steals,1.5,demon
+NBA,Kentavious Caldwell-Pope,Rebounds,2.5,demon
+NBA,Wendell Carter Jr.,Blocked Shots,0.5,demon
+NBA,Kentavious Caldwell-Pope,Assists,2.5,demon
+NBA,Kentavious Caldwell-Pope,3-PT Made,2.5,demon
+NBA,Franz Wagner,3-PT Made,3.5,demon
+NBA,Paolo Banchero,Assists,6.5,demon
+NBA,Paolo Banchero,Assists,3.5,goblin
+NBA,Paolo Banchero,3-PT Made,2.5,demon
+NBA,Wendell Carter Jr.,Rebounds,4.5,goblin
+NBA,Franz Wagner,Assists,3.5,goblin
+NBA,Goga Bitadze,Turnovers,0.5,goblin
+NBA,Goga Bitadze,Rebounds,10.5,demon
+NBA,Wendell Carter Jr.,Rebounds,9.5,demon
+NBA,Franz Wagner,Steals,1.5,demon
+NBA,Kentavious Caldwell-Pope,Points,4.5,goblin
+NBA,Franz Wagner,Rebounds,4.5,goblin
+NBA,Moses Moody,Assists,0.5,goblin
+NBA,Buddy Hield,Points,5.5,goblin
+NBA,Moses Moody,Points,5.5,goblin
+NBA,Andrew Wiggins,Points,13.5,goblin
+NBA,Devin Booker,Rebs+Asts,10.5,standard
+NBA,Devin Booker,Points,27.5,standard
+NBA,Devin Booker,3-PT Attempted,7.5,standard
+NBA,Devin Booker,FG Made,9.5,standard
+NBA,Devin Booker,Fantasy Score,43.0,standard
+NBA,Devin Booker,FG Attempted,20.5,standard
+NBA,Devin Booker,Pts+Rebs,31.5,standard
+NBA,Devin Booker,Assists,6.5,standard
+NBA,Devin Booker,Free Throws Made,6.0,standard
+NBA,Devin Booker,Pts+Asts,33.5,standard
+NBA,Devin Booker,Pts+Rebs+Asts,37.5,standard
+NBA,Devin Booker,3-PT Made,2.5,standard
+NBA,Devin Booker,Rebounds,4.0,standard
+NBA,Anfernee Simons,FG Made,7.0,standard
+NBA,Anfernee Simons,Points,18.5,standard
+NBA,Anfernee Simons,3-PT Attempted,8.5,standard
+NBA,Anfernee Simons,Pts+Asts,23.5,standard
+NBA,Anfernee Simons,Rebs+Asts,7.5,standard
+NBA,Anfernee Simons,FG Attempted,16.5,standard
+NBA,Anfernee Simons,Turnovers,1.5,standard
+NBA,Anfernee Simons,Pts+Rebs,22.5,standard
+NBA,Anfernee Simons,Free Throws Made,2.5,standard
+NBA,Anfernee Simons,Fantasy Score,30.5,standard
+NBA,Anfernee Simons,Pts+Rebs+Asts,26.5,standard
+NBA,Anfernee Simons,Assists,4.5,standard
+NBA,Kevin Durant,3-PT Attempted,6.5,standard
+NBA,Kevin Durant,Offensive Rebounds,0.5,standard
+NBA,Kevin Durant,Rebounds,5.5,standard
+NBA,Kevin Durant,Defensive Rebounds,5.0,standard
+NBA,Kevin Durant,Assists,4.0,standard
+NBA,Kevin Durant,Pts+Rebs,32.0,standard
+NBA,Kevin Durant,FG Attempted,18.5,standard
+NBA,Kevin Durant,Fantasy Score,43.0,standard
+NBA,Kevin Durant,Points,26.5,standard
+NBA,Kevin Durant,Free Throws Made,5.0,standard
+NBA,Kevin Durant,Pts+Asts,30.5,standard
+NBA,Kevin Durant,FG Made,9.5,standard
+NBA,Kevin Durant,Pts+Rebs+Asts,36.5,standard
+NBA,Kevin Durant,Rebs+Asts,9.5,standard
+NBA,Kevin Durant,Dunks,0.5,standard
+NBA,Deni Avdija,Rebounds,6.5,standard
+NBA,Deni Avdija,Pts+Rebs,22.5,standard
+NBA,Deni Avdija,FG Attempted,11.5,standard
+NBA,Deni Avdija,Pts+Rebs+Asts,26.0,standard
+NBA,Deni Avdija,Points,15.5,standard
+NBA,Deni Avdija,FG Made,5.5,standard
+NBA,Deni Avdija,Free Throws Made,3.5,standard
+NBA,Deni Avdija,Fantasy Score,30.5,standard
+NBA,Deni Avdija,3-PT Attempted,4.5,standard
+NBA,Deni Avdija,Defensive Rebounds,5.5,standard
+NBA,Deni Avdija,Pts+Asts,19.5,standard
+NBA,Deni Avdija,Rebs+Asts,10.5,standard
+NBA,Deni Avdija,Blks+Stls,1.5,standard
+NBA,Bradley Beal,Pts+Asts,17.5,standard
+NBA,Bradley Beal,FG Made,5.0,standard
+NBA,Bradley Beal,Free Throws Made,1.5,standard
+NBA,Bradley Beal,Turnovers,1.5,standard
+NBA,Bradley Beal,3-PT Attempted,4.0,standard
+NBA,Bradley Beal,Points,14.5,standard
+NBA,Bradley Beal,Fantasy Score,23.5,standard
+NBA,Bradley Beal,FG Attempted,11.0,standard
+NBA,Bradley Beal,Offensive Rebounds,0.5,standard
+NBA,Bradley Beal,Pts+Rebs+Asts,20.5,standard
+NBA,Bradley Beal,Pts+Rebs,17.5,standard
+NBA,Deandre Ayton,Rebounds,10.5,standard
+NBA,Deandre Ayton,Dunks,1.5,standard
+NBA,Deandre Ayton,Offensive Rebounds,3.0,standard
+NBA,Deandre Ayton,Assists,1.5,standard
+NBA,Deandre Ayton,Pts+Rebs+Asts,29.0,standard
+NBA,Deandre Ayton,Pts+Asts,17.5,standard
+NBA,Deandre Ayton,Rebs+Asts,12.5,standard
+NBA,Deandre Ayton,FG Made,7.0,standard
+NBA,Deandre Ayton,Pts+Rebs,27.5,standard
+NBA,Deandre Ayton,Turnovers,1.5,standard
+NBA,Deandre Ayton,FG Attempted,12.5,standard
+NBA,Deandre Ayton,Points,16.5,standard
+NBA,Deandre Ayton,Defensive Rebounds,7.5,standard
+NBA,Nick Richards,Pts+Rebs+Asts,20.5,standard
+NBA,Nick Richards,Fantasy Score,25.0,standard
+NBA,Nick Richards,Rebounds,9.5,standard
+NBA,Nick Richards,Rebs+Asts,11.0,standard
+NBA,Nick Richards,Defensive Rebounds,6.5,standard
+NBA,Nick Richards,Pts+Asts,10.5,standard
+NBA,Nick Richards,FG Made,4.0,standard
+NBA,Nick Richards,Pts+Rebs,19.0,standard
+NBA,Nick Richards,Offensive Rebounds,3.0,standard
+NBA,Nick Richards,Points,9.5,standard
+NBA,Nick Richards,Turnovers,1.5,standard
+NBA,Jerami Grant,Free Throws Made,2.5,standard
+NBA,Jerami Grant,Fantasy Score,23.5,standard
+NBA,Jerami Grant,Points,13.5,standard
+NBA,Jerami Grant,3-PT Attempted,4.5,standard
+NBA,Jerami Grant,FG Attempted,11.0,standard
+NBA,Jerami Grant,Blks+Stls,1.5,standard
+NBA,Jerami Grant,Rebs+Asts,5.5,standard
+NBA,Jerami Grant,Pts+Asts,15.5,standard
+NBA,Jerami Grant,Pts+Rebs,17.5,standard
+NBA,Jerami Grant,Offensive Rebounds,0.5,standard
+NBA,Jerami Grant,Pts+Rebs+Asts,19.0,standard
+NBA,Jerami Grant,FG Made,4.5,standard
+NBA,Tyus Jones,FG Attempted,8.0,standard
+NBA,Tyus Jones,Fantasy Score,21.0,standard
+NBA,Tyus Jones,Pts+Asts,14.5,standard
+NBA,Tyus Jones,FG Made,3.5,standard
+NBA,Tyus Jones,Assists,5.0,standard
+NBA,Tyus Jones,3-PT Made,1.5,standard
+NBA,Tyus Jones,Points,8.5,standard
+NBA,Tyus Jones,Pts+Rebs+Asts,16.5,standard
+NBA,Toumani Camara,Pts+Rebs,16.5,standard
+NBA,Toumani Camara,Fantasy Score,25.5,standard
+NBA,Toumani Camara,FG Made,4.0,standard
+NBA,Toumani Camara,FG Attempted,8.5,standard
+NBA,Toumani Camara,Offensive Rebounds,2.5,standard
+NBA,Toumani Camara,Points,10.5,standard
+NBA,Toumani Camara,Defensive Rebounds,4.0,standard
+NBA,Toumani Camara,Rebounds,6.0,standard
+NBA,Toumani Camara,Pts+Rebs+Asts,19.5,standard
+NBA,Toumani Camara,Pts+Asts,12.0,standard
+NBA,Toumani Camara,Rebs+Asts,8.5,standard
+NBA,Grayson Allen,Pts+Rebs,12.5,standard
+NBA,Grayson Allen,Points,9.5,standard
+NBA,Scoot Henderson,Pts+Rebs,14.5,standard
+NBA,Scoot Henderson,Points,11.5,standard
+NBA,Scoot Henderson,Pts+Rebs+Asts,20.5,standard
+NBA,Scoot Henderson,Rebounds,2.5,standard
+NBA,Shaedon Sharpe,Points,14.5,standard
+NBA,Shaedon Sharpe,Pts+Rebs,17.5,standard
+NBA,Shaedon Sharpe,Rebounds,3.5,standard
+NBA,Deandre Ayton,Rebounds,8.5,goblin
+NBA,Anfernee Simons,Assists,5.5,demon
+NBA,Deandre Ayton,Assists,2.5,demon
+NBA,Toumani Camara,Points,7.5,goblin
+NBA,Anfernee Simons,Blocked Shots,0.5,demon
+NBA,Deandre Ayton,Pts+Rebs+Asts,24.5,goblin
+NBA,Jerami Grant,Pts+Rebs+Asts,14.5,goblin
+NBA,Anfernee Simons,3-PT Made,2.5,goblin
+NBA,Anfernee Simons,Assists,3.5,goblin
+NBA,Jerami Grant,Pts+Rebs+Asts,24.5,demon
+NBA,Deni Avdija,Pts+Rebs+Asts,24.5,goblin
+NBA,Jerami Grant,Rebs+Asts,7.5,demon
+NBA,Toumani Camara,Pts+Asts,9.5,goblin
+NBA,Toumani Camara,Assists,1.5,goblin
+NBA,Toumani Camara,Steals,2.5,demon
+NBA,Anfernee Simons,Steals,1.5,demon
+NBA,Jerami Grant,Blocked Shots,1.5,demon
+NBA,Jerami Grant,Assists,1.5,goblin
+NBA,Jerami Grant,Points,19.5,demon
+NBA,Deni Avdija,Pts+Rebs,19.5,goblin
+NBA,Jerami Grant,Pts+Rebs,19.5,demon
+NBA,Toumani Camara,3-PT Made,0.5,goblin
+NBA,Anfernee Simons,Assists,6.5,demon
+NBA,Deni Avdija,Rebounds,5.5,goblin
+NBA,Deni Avdija,Assists,4.5,demon
+NBA,Anfernee Simons,Pts+Rebs,29.5,demon
+NBA,Anfernee Simons,3-PT Made,4.5,demon
+NBA,Anfernee Simons,Pts+Asts,19.5,goblin
+NBA,Anfernee Simons,Pts+Asts,29.5,demon
+NBA,Anfernee Simons,Steals,0.5,goblin
+NBA,Anfernee Simons,Pts+Rebs+Asts,34.5,demon
+NBA,Anfernee Simons,Pts+Rebs+Asts,24.5,goblin
+NBA,Deandre Ayton,Rebounds,14.5,demon
+NBA,Deandre Ayton,Rebounds,9.5,goblin
+NBA,Deandre Ayton,Pts+Rebs,34.5,demon
+NBA,Deandre Ayton,Steals,0.5,goblin
+NBA,Anfernee Simons,Rebounds,4.5,demon
+NBA,Deni Avdija,Blocked Shots,1.5,demon
+NBA,Deni Avdija,Rebs+Asts,9.5,goblin
+NBA,Deni Avdija,Steals,0.5,goblin
+NBA,Deandre Ayton,Steals,1.5,demon
+NBA,Deni Avdija,Steals,1.5,demon
+NBA,Deni Avdija,Assists,5.5,demon
+NBA,Deni Avdija,Rebounds,9.5,demon
+NBA,Deni Avdija,Rebs+Asts,14.5,demon
+NBA,Deni Avdija,Pts+Rebs,29.5,demon
+NBA,Deni Avdija,Rebounds,8.5,demon
+NBA,Jerami Grant,Turnovers,1.5,demon
+NBA,Toumani Camara,Rebounds,4.5,goblin
+NBA,Toumani Camara,Steals,0.5,goblin
+NBA,Deandre Ayton,Pts+Rebs,24.5,goblin
+NBA,Jerami Grant,Points,17.5,demon
+NBA,Anfernee Simons,Points,14.5,goblin
+NBA,Jerami Grant,3-PT Made,2.5,demon
+NBA,Toumani Camara,Assists,3.5,demon
+NBA,Toumani Camara,3-PT Made,2.5,demon
+NBA,Toumani Camara,Rebs+Asts,11.5,demon
+NBA,Jerami Grant,Pts+Rebs,14.5,goblin
+NBA,Jerami Grant,Points,18.5,demon
+NBA,Jerami Grant,Rebs+Asts,4.5,goblin
+NBA,Deandre Ayton,Points,11.5,goblin
+NBA,Deandre Ayton,Points,19.5,demon
+NBA,Anfernee Simons,Rebounds,3.5,demon
+NBA,Jerami Grant,Rebounds,4.5,demon
+NBA,Toumani Camara,Rebounds,7.5,demon
+NBA,Deandre Ayton,Rebounds,12.5,demon
+NBA,Deni Avdija,Pts+Rebs+Asts,34.5,demon
+NBA,Deni Avdija,Assists,2.5,goblin
+NBA,Toumani Camara,3-PT Made,1.5,demon
+NBA,Deni Avdija,Pts+Rebs+Asts,29.5,demon
+NBA,Deandre Ayton,Pts+Rebs+Asts,34.5,demon
+NBA,Deandre Ayton,Points,14.5,goblin
+NBA,Deni Avdija,3-PT Made,2.5,demon
+NBA,Deni Avdija,Rebounds,4.5,goblin
+NBA,Deni Avdija,3-PT Made,0.5,goblin
+NBA,Deni Avdija,Rebounds,7.5,demon
+NBA,Deni Avdija,Points,11.5,goblin
+NBA,Toumani Camara,Points,6.5,goblin
+NBA,Anfernee Simons,Points,24.5,demon
+NBA,Deandre Ayton,Pts+Rebs,29.5,demon
+NBA,Jerami Grant,Points,11.5,goblin
+NBA,Deandre Ayton,Points,21.5,demon
+NBA,Deni Avdija,Blocked Shots,0.5,demon
+NBA,Toumani Camara,Pts+Rebs+Asts,24.5,demon
+NBA,Anfernee Simons,Pts+Rebs+Asts,29.5,demon
+NBA,Toumani Camara,Pts+Rebs,14.5,goblin
+NBA,Jerami Grant,Rebounds,2.5,goblin
+NBA,Toumani Camara,Points,14.5,demon
+NBA,Deandre Ayton,Pts+Asts,14.5,goblin
+NBA,Nick Richards,Rebounds,11.5,demon
+NBA,Toumani Camara,Rebs+Asts,7.5,goblin
+NBA,Anfernee Simons,Pts+Rebs,19.5,goblin
+NBA,Devin Booker,Pts+Asts,29.5,goblin
+NBA,Kevin Durant,Blocked Shots,0.5,goblin
+NBA,Deandre Ayton,Blocked Shots,0.5,goblin
+NBA,Bradley Beal,Rebs+Asts,7.5,demon
+NBA,Kevin Durant,Pts+Rebs+Asts,39.5,demon
+NBA,Nick Richards,Assists,1.5,demon
+NBA,Nick Richards,Blocked Shots,0.5,goblin
+NBA,Devin Booker,3-PT Made,1.5,goblin
+NBA,Kevin Durant,Rebounds,6.5,demon
+NBA,Devin Booker,Pts+Rebs+Asts,44.5,demon
+NBA,Bradley Beal,Points,17.5,demon
+NBA,Devin Booker,Pts+Rebs,29.5,goblin
+NBA,Tyus Jones,Pts+Rebs+Asts,24.5,demon
+NBA,Tyus Jones,Rebounds,3.5,demon
+NBA,Tyus Jones,Pts+Rebs,14.5,demon
+NBA,Tyus Jones,Pts+Rebs+Asts,14.5,goblin
+NBA,Tyus Jones,Pts+Rebs,9.5,goblin
+NBA,Kevin Durant,3-PT Made,3.5,demon
+NBA,Devin Booker,Assists,4.5,goblin
+NBA,Devin Booker,Assists,7.5,demon
+NBA,Devin Booker,Pts+Rebs+Asts,34.5,goblin
+NBA,Devin Booker,Points,24.5,goblin
+NBA,Nick Richards,Rebounds,7.5,goblin
+NBA,Bradley Beal,Points,9.5,goblin
+NBA,Bradley Beal,Pts+Rebs+Asts,24.5,demon
+NBA,Bradley Beal,3-PT Made,0.5,goblin
+NBA,Nick Richards,Rebounds,12.5,demon
+NBA,Tyus Jones,Free Throws Made,0.5,demon
+NBA,Tyus Jones,Points,13.5,demon
+NBA,Tyus Jones,Assists,4.5,goblin
+NBA,Tyus Jones,Points,7.5,goblin
+NBA,Nick Richards,Steals,1.5,demon
+NBA,Nick Richards,Points,14.5,demon
+NBA,Jerami Grant,Assists,3.5,demon
+NBA,Nick Richards,Pts+Rebs,14.5,goblin
+NBA,Tyus Jones,Points,14.5,demon
+NBA,Devin Booker,Turnovers,2.5,goblin
+NBA,Tyus Jones,Assists,6.5,demon
+NBA,Nick Richards,Pts+Rebs+Asts,24.5,demon
+NBA,Kevin Durant,Rebounds,8.5,demon
+NBA,Kevin Durant,Points,33.5,demon
+NBA,Kevin Durant,Pts+Rebs,29.5,goblin
+NBA,Kevin Durant,Steals,2.5,demon
+NBA,Kevin Durant,Rebounds,7.5,demon
+NBA,Kevin Durant,Points,34.5,demon
+NBA,Kevin Durant,Pts+Asts,39.5,demon
+NBA,Kevin Durant,Blocked Shots,2.5,demon
+NBA,Kevin Durant,Blocked Shots,1.5,demon
+NBA,Bradley Beal,Pts+Asts,24.5,demon
+NBA,Bradley Beal,Rebounds,4.5,demon
+NBA,Kevin Durant,Assists,6.5,demon
+NBA,Devin Booker,Rebounds,6.5,demon
+NBA,Devin Booker,Steals,0.5,goblin
+NBA,Bradley Beal,Rebs+Asts,9.5,demon
+NBA,Devin Booker,Pts+Rebs,39.5,demon
+NBA,Bradley Beal,Points,18.5,demon
+NBA,Devin Booker,Blocked Shots,0.5,demon
+NBA,Bradley Beal,Pts+Asts,14.5,goblin
+NBA,Kevin Durant,Assists,3.5,goblin
+NBA,Devin Booker,Pts+Asts,39.5,demon
+NBA,Tyus Jones,Points,11.5,demon
+NBA,Kevin Durant,Steals,1.5,demon
+NBA,Nick Richards,Points,7.5,goblin
+NBA,Bradley Beal,Steals,1.5,demon
+NBA,Kevin Durant,Rebounds,4.5,goblin
+NBA,Nick Richards,Rebounds,13.5,demon
+NBA,Bradley Beal,Steals,0.5,goblin
+NBA,Tyus Jones,Pts+Asts,19.5,demon
+NBA,Devin Booker,Steals,1.5,demon
+NBA,Tyus Jones,Steals,1.5,demon
+NBA,Tyus Jones,Pts+Rebs+Asts,19.5,demon
+NBA,Kevin Durant,Pts+Asts,24.5,goblin
+NBA,Bradley Beal,Pts+Rebs,19.5,demon
+NBA,Tyus Jones,Assists,3.5,goblin
+NBA,Devin Booker,3-PT Made,4.5,demon
+NBA,Kevin Durant,Rebs+Asts,11.5,demon
+NBA,Devin Booker,Assists,5.5,goblin
+NBA,Kevin Durant,Pts+Asts,34.5,demon
+NBA,Devin Booker,Assists,8.5,demon
+NBA,Nick Richards,Blocked Shots,1.5,demon
+NBA,Tyus Jones,3-PT Made,2.5,demon
+NBA,Nick Richards,Rebounds,8.5,goblin
+NBA,Devin Booker,Points,34.5,demon
+NBA,Tyus Jones,Points,5.5,goblin
+NBA,Bradley Beal,Points,19.5,demon
+NBA,Bradley Beal,3-PT Made,2.5,demon
+NBA,Devin Booker,Pts+Rebs,34.5,demon
+NBA,Tyus Jones,Turnovers,1.5,demon
+NBA,Kevin Durant,Pts+Rebs+Asts,44.5,demon
+NBA,Tyus Jones,Rebs+Asts,9.5,demon
+NBA,Devin Booker,3-PT Made,3.5,demon
+NBA,Kevin Durant,Pts+Rebs,39.5,demon
+NBA,Bradley Beal,Rebounds,3.5,demon
+NBA,Bradley Beal,Assists,4.5,demon
+NBA,Kevin Durant,3-PT Made,1.5,goblin
+NBA,Bradley Beal,Pts+Asts,19.5,demon
+NBA,Nick Richards,Points,11.5,demon
+NBA,Devin Booker,Rebs+Asts,14.5,demon
+NBA,Kevin Durant,Assists,5.5,demon
+NBA,Kevin Durant,Points,29.5,demon
+NBA,Tyus Jones,Rebounds,2.5,demon
+NBA,Toumani Camara,Turnovers,1.5,demon
+NBA,Bradley Beal,Pts+Rebs,14.5,goblin
+NBA,Nick Richards,Pts+Rebs,24.5,demon
+NBA,Jerami Grant,Steals,1.5,demon
+NBA,Kevin Durant,Steals,0.5,goblin
+NBA,Toumani Camara,Points,15.5,demon
+NBA,Deni Avdija,Points,22.5,demon
+NBA,Anfernee Simons,Pts+Rebs,24.5,demon
+NBA,Jerami Grant,Pts+Asts,19.5,demon
+NBA,Deandre Ayton,Blocked Shots,1.5,demon
+NBA,Deandre Ayton,Pts+Asts,24.5,demon
+NBA,Kevin Durant,Points,20.5,goblin
+NBA,Devin Booker,Rebounds,5.5,demon
+NBA,Devin Booker,Points,21.5,goblin
+NBA,Deandre Ayton,Rebounds,13.5,demon
+NBA,Bradley Beal,Assists,2.5,goblin
+NBA,Toumani Camara,Rebounds,8.5,demon
+NBA,Devin Booker,Points,29.5,demon
+NBA,Tyus Jones,Assists,7.5,demon
+NBA,Deni Avdija,Pts+Asts,14.5,goblin
+NBA,Jerami Grant,Points,8.5,goblin
+NBA,Anfernee Simons,Points,26.5,demon
+NBA,Toumani Camara,Pts+Rebs+Asts,14.5,goblin
+NBA,Toumani Camara,Pts+Asts,14.5,demon
+NBA,Deni Avdija,Pts+Asts,24.5,demon
+NBA,Toumani Camara,Pts+Rebs,19.5,demon
+NBA,Deni Avdija,Points,19.5,demon
+NBA,Toumani Camara,Rebs+Asts,9.5,demon
+NBA,Anfernee Simons,Rebs+Asts,9.5,demon
+NBA,Jerami Grant,Points,9.5,goblin

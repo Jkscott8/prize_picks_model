@@ -1,0 +1,382 @@
+League,PlayerName,Stat,PropLine,Type
+NFL,Patrick Mahomes,Completion Percentage,68.1,standard
+NFL,Jalen Hurts,Completion Percentage,67.3,standard
+NFL,Jalen Hurts,Sacks Taken,3.0,standard
+NFL,Travis Kelce,Receiving Yards,61.5,standard
+NFL,Saquon Barkley,Rush Yards,115.5,standard
+NFL,Nolan Smith,Sacks,0.25,standard
+NFL,Patrick Mahomes,Sacks Taken,2.5,standard
+NFL,Darius Slay,Pass Deflections,1.0,standard
+NFL,Saquon Barkley,Rush+Rec TDs,0.5,goblin
+NFL,Saquon Barkley,Rush+Rec TDs,1.5,demon
+NFL,Patrick Mahomes,Fantasy Score,20.5,standard
+NFL,Patrick Mahomes,Pass Yards,250.5,standard
+NFL,Travis Kelce,Rec Targets,8.0,standard
+NFL,Patrick Mahomes,Longest Completion,35.5,standard
+NFL,Jalen Hurts,Pass+Rush Yds,255.5,standard
+NFL,Saquon Barkley,Longest Rush,25.0,standard
+NFL,Jalen Hurts,Pass Attempts,27.0,standard
+NFL,Travis Kelce,Receiving Yards in First 2 Receptions,18.5,standard
+NFL,Saquon Barkley,Rush Yards in First 5 Attempts,26.5,standard
+NFL,Kareem Hunt,Rush Yards,45.5,standard
+NFL,Travis Kelce,Rush+Rec TDs,0.5,demon
+NFL,A.J. Brown,Receiving Yards,70.5,standard
+NFL,Trent McDuffie,Pass Deflections,0.5,standard
+NFL,Jalen Hurts,Pass Completions,18.5,standard
+NFL,Jalen Hurts,Rush Attempts,9.5,standard
+NFL,Jalen Hurts,Pass Yards,212.5,standard
+NFL,Saquon Barkley,Rush Yards Per Carry,5.2,standard
+NFL,Jake Elliott,FG Made,1.5,standard
+NFL,A.J. Brown,Rec Targets,7.5,standard
+NFL,Patrick Mahomes,Pass+Rush Yds,285.5,standard
+NFL,Jalen Hurts,Fantasy Score,20.5,standard
+NFL,Xavier Worthy,Receiving Yards,56.5,standard
+NFL,Kareem Hunt,Rush Yards in First 5 Attempts,19.5,standard
+NFL,Kareem Hunt,Rush Yards Per Carry,3.8,standard
+NFL,Patrick Mahomes,Pass Yards,252.5,standard
+NFL,Jalen Hurts,Rush Yards,40.5,standard
+NFL,Jalen Hurts,Longest Completion,33.5,standard
+NFL,Travis Kelce,Fantasy Score,15.0,standard
+NFL,Jalen Hurts,Rush+Rec TDs,0.5,standard
+NFL,A.J. Brown,Receiving Yards in First 2 Receptions,22.5,standard
+NFL,C.J. Gardner-Johnson,Pass Deflections,0.5,standard
+NFL,Patrick Mahomes,Longest Rush,13.5,standard
+NFL,Charles Omenihu,Sacks,0.25,demon
+NFL,Patrick Mahomes,Pass Attempts,36.0,standard
+NFL,Patrick Mahomes,Pass Completions,24.5,standard
+NFL,Patrick Mahomes,Rush Attempts,6.0,standard
+NFL,Hollywood Brown,Receiving Yards in First 2 Receptions,19.5,standard
+NFL,A.J. Brown,Longest Reception,25.5,standard
+NFL,Jalen Hurts,Rush Yards Per Carry,4.1,standard
+NFL,Jalen Hurts,Longest Rush,12.5,standard
+NFL,Xavier Worthy,Rec Targets,7.5,standard
+NFL,Patrick Mahomes,Rush Yards,30.5,standard
+NFL,DeVonta Smith,Receiving Yards,50.5,standard
+NFL,Kareem Hunt,Rush+Rec TDs,0.5,demon
+NFL,Saquon Barkley,Fantasy Score,20.0,standard
+NFL,A.J. Brown,Receptions,5.0,standard
+NFL,Justin Reid,Pass Deflections,0.5,standard
+NFL,A.J. Brown,Rush+Rec TDs,0.5,demon
+NFL,Xavier Worthy,Fantasy Score,14.5,standard
+NFL,Chris Jones,Sacks,0.25,demon
+NFL,Xavier Worthy,Rush Yards,6.5,standard
+NFL,DeVonta Smith,Receiving Yards in First 2 Receptions,22.5,standard
+NFL,Xavier Worthy,Longest Reception,20.5,standard
+NFL,Patrick Mahomes,Rush Yards Per Carry,4.9,standard
+NFL,Isiah Pacheco,Longest Rush,8.0,standard
+NFL,Xavier Worthy,Rush+Rec Yds,65.5,standard
+NFL,Xavier Worthy,Receptions,5.0,standard
+NFL,DeVonta Smith,Rec Targets,6.5,standard
+NFL,DeVonta Smith,Longest Reception,20.5,standard
+NFL,Kareem Hunt,Longest Rush,11.5,standard
+NFL,Xavier Worthy,Receiving Yards in First 2 Receptions,19.5,standard
+NFL,Xavier Worthy,Rush+Rec TDs,0.5,demon
+NFL,DeVonta Smith,Receptions,4.5,standard
+NFL,Quinyon Mitchell,Pass Deflections,0.5,standard
+NFL,A.J. Brown,Fantasy Score,14.5,standard
+NFL,Hollywood Brown,Rec Targets,6.0,standard
+NFL,Dallas Goedert,Receiving Yards in First 2 Receptions,20.5,standard
+NFL,JuJu Smith-Schuster,Longest Reception,10.0,standard
+NFL,DeVonta Smith,Rush+Rec TDs,0.5,demon
+NFL,Dallas Goedert,Rec Targets,6.5,standard
+NFL,DeAndre Hopkins,Rec Targets,2.5,standard
+NFL,Jahan Dotson,Longest Reception,1.5,standard
+NFL,Jahan Dotson,Receptions,0.5,standard
+NFL,Saquon Barkley,Rec Targets,2.5,standard
+NFL,JuJu Smith-Schuster,Receptions,1.5,standard
+NFL,DeAndre Hopkins,Longest Reception,10.5,standard
+NFL,Drue Tranquill,Sacks,0.25,demon
+NFL,Noah Gray,Rec Targets,2.0,standard
+NFL,George Karlaftis,Sacks,0.25,standard
+NFL,Patrick Mahomes + Jalen Hurts,Pass Completions (Combo),43.5,standard
+NFL,Patrick Mahomes,INT,0.5,standard
+NFL,Hollywood Brown,Longest Reception,18.5,standard
+NFL,Patrick Mahomes + Jalen Hurts,Pass Attempts	(Combo),64.5,standard
+NFL,Kareem Hunt,Rec Targets,1.5,standard
+NFL,Dallas Goedert,Receiving Yards,53.5,standard
+NFL,Jahan Dotson,Receiving Yards,3.5,standard
+NFL,Hollywood Brown,Fantasy Score,9.0,standard
+NFL,Kareem Hunt,Fantasy Score,9.5,standard
+NFL,Dallas Goedert,Rush+Rec TDs,0.5,demon
+NFL,DeVonta Smith,Fantasy Score,11.0,standard
+NFL,Isiah Pacheco,Rec Targets,1.5,standard
+NFL,Saquon Barkley,Rush+Rec Yds,130.5,standard
+NFL,Harrison Butker,FG Made,2.5,demon
+NFL,JuJu Smith-Schuster,Fantasy Score,3.5,standard
+NFL,DeAndre Hopkins,Rush+Rec TDs,0.5,demon
+NFL,DeAndre Hopkins,Receiving Yards,13.5,standard
+NFL,Saquon Barkley,Rush Attempts,22.0,standard
+NFL,Saquon Barkley,Longest Reception,8.5,standard
+NFL,Samaje Perine,Rec Targets,1.5,standard
+NFL,Isiah Pacheco,Rush+Rec Yds,28.5,standard
+NFL,Isiah Pacheco,Rush Yards,21.5,standard
+NFL,Isiah Pacheco,Longest Reception,4.5,standard
+NFL,Dallas Goedert,Fantasy Score,11.5,standard
+NFL,Hollywood Brown,Rush+Rec TDs,0.5,demon
+NFL,Isiah Pacheco,Fantasy Score,5.5,standard
+NFL,JuJu Smith-Schuster,Receiving Yards,15.5,standard
+NFL,Samaje Perine,Longest Reception,7.5,standard
+NFL,DeAndre Hopkins,Fantasy Score,4.0,standard
+NFL,Isiah Pacheco,Rush+Rec TDs,0.5,demon
+NFL,Jake Elliott,FG Made,2.5,demon
+NFL,Noah Gray,Fantasy Score,3.0,standard
+NFL,Jalen Carter,Sacks,0.25,demon
+NFL,Kareem Hunt,Longest Reception,6.5,standard
+NFL,Kareem Hunt,Rush+Rec Yds,56.5,standard
+NFL,Kareem Hunt,Rush Attempts,11.5,standard
+NFL,Noah Gray,Rush+Rec TDs,0.5,demon
+NFL,Dallas Goedert,Receptions,5.0,standard
+NFL,Dallas Goedert,Longest Reception,18.5,standard
+NFL,Saquon Barkley,Receptions,2.0,standard
+NFL,Patrick Mahomes,Rush+Rec TDs,0.5,demon
+NFL,Jalen Hurts,INT,0.5,demon
+NFL,Noah Gray,Longest Reception,9.5,standard
+NFL,Saquon Barkley,Receiving Yards,14.5,standard
+NFL,Jalen Hurts,Pass TDs,0.5,goblin
+NFL,A.J. Brown,Receiving Yards,39.5,goblin
+NFL,Travis Kelce,Longest Reception,19.5,standard
+NFL,Travis Kelce,Receptions,6.0,standard
+NFL,A.J. Brown,Receiving Yards,49.5,goblin
+NFL,Jalen Hurts,Pass TDs,1.5,demon
+NFL,A.J. Brown,Receiving Yards,59.5,goblin
+NFL,Josh Sweat,Sacks,0.25,demon
+NFL,JuJu Smith-Schuster,Rush+Rec TDs,0.5,demon
+NFL,A.J. Brown,Receiving Yards,79.5,demon
+NFL,A.J. Brown,Receiving Yards,89.5,demon
+NFL,Mike Danna,Sacks,0.25,demon
+NFL,Nick Bolton,Sacks,0.25,demon
+NFL,A.J. Brown,Receiving Yards,99.5,demon
+NFL,A.J. Brown,Receiving Yards,109.5,demon
+NFL,Isiah Pacheco,Rush Yards,29.5,demon
+NFL,Isiah Pacheco,Rush Yards,39.5,demon
+NFL,Isiah Pacheco,Rush+Rec Yds,39.5,demon
+NFL,Patrick Mahomes,Pass TDs,1.5,goblin
+NFL,Isiah Pacheco,Rush+Rec Yds,49.5,demon
+NFL,Dallas Goedert,Receiving Yards,24.5,goblin
+NFL,Patrick Mahomes,Pass TDs,2.5,demon
+NFL,Jalen Hurts,Pass Yards,174.5,goblin
+NFL,Dallas Goedert,Receiving Yards,39.5,goblin
+NFL,Hollywood Brown,Receiving Yards,41.5,standard
+NFL,Jalen Hurts,Pass Yards,199.5,goblin
+NFL,Dallas Goedert,Receiving Yards,59.5,demon
+NFL,Dallas Goedert,Receiving Yards,69.5,demon
+NFL,Jalen Hurts,Pass Yards,224.5,demon
+NFL,Dallas Goedert,Receiving Yards,79.5,demon
+NFL,Tershawn Wharton,Sacks,0.25,demon
+NFL,Jake Elliott,Fantasy Score,8.0,standard
+NFL,Jake Elliott,Kicking Points,7.0,standard
+NFL,Samaje Perine,Receptions,0.5,goblin
+NFL,Jake Elliott,PAT Made,2.5,standard
+NFL,DeAndre Hopkins,Receiving Yards,19.5,demon
+NFL,Jalen Hurts,Pass Yards,249.5,demon
+NFL,Harrison Butker,Fantasy Score,8.5,standard
+NFL,Harrison Butker,Kicking Points,7.5,standard
+NFL,Harrison Butker,PAT Made,2.5,standard
+NFL,DeAndre Hopkins,Receiving Yards,24.5,demon
+NFL,Jalen Hurts,Pass Yards,274.5,demon
+NFL,Noah Gray,Receiving Yards,11.5,standard
+NFL,Jalen Hurts,Rush Yards,24.5,goblin
+NFL,Jalen Hurts,Rush Yards,29.5,goblin
+NFL,Isiah Pacheco,Receiving Yards,4.5,standard
+NFL,DeAndre Hopkins,Receiving Yards,29.5,demon
+NFL,Jalen Hurts,Rush Yards,49.5,demon
+NFL,Jalen Hurts,Rush Yards,59.5,demon
+NFL,Samaje Perine,Receiving Yards,7.5,standard
+NFL,Jalen Hurts,Rush Yards,69.5,demon
+NFL,DeAndre Hopkins,Receiving Yards,39.5,demon
+NFL,DeVonta Smith,Receiving Yards,29.5,goblin
+NFL,Kareem Hunt,Receiving Yards,7.5,standard
+NFL,DeVonta Smith,Receiving Yards,39.5,goblin
+NFL,Patrick Mahomes + Jalen Hurts,Pass Yards (Combo),465.5,standard
+NFL,Patrick Mahomes + Jalen Hurts,Rush Yards (Combo),69.5,standard
+NFL,DeVonta Smith,Receiving Yards,59.5,demon
+NFL,Kareem Hunt,Rush Yards,29.5,goblin
+NFL,Travis Kelce + A.J. Brown,Receiving Yards (Combo),132.5,standard
+NFL,Xavier Worthy + DeVonta Smith,Receiving Yards (Combo),106.5,standard
+NFL,DeVonta Smith,Receiving Yards,69.5,demon
+NFL,Kareem Hunt,Rush Yards,39.5,goblin
+NFL,DeVonta Smith,Receiving Yards,74.5,demon
+NFL,Kareem Hunt,Rush Yards,59.5,demon
+NFL,Hollywood Brown + Dallas Goedert,Receiving Yards (Combo),93.5,standard
+NFL,Kareem Hunt,Rush Yards,69.5,demon
+NFL,Jake Elliott + Harrison Butker,Field Goal Yards (Combo),120.5,standard
+NFL,DeVonta Smith,Receiving Yards,79.5,demon
+NFL,Kareem Hunt,Rush+Rec Yds,39.5,goblin
+NFL,Jake Elliott + Harrison Butker,Longest FG Made Yds (Combo),48.5,standard
+NFL,DeVonta Smith,Receiving Yards,89.5,demon
+NFL,Hollywood Brown,Receiving Yards,24.5,goblin
+NFL,Kareem Hunt,Rush+Rec Yds,49.5,goblin
+NFL,Jake Elliott + Harrison Butker,Shortest FG Made Yds (Combo),27.5,standard
+NFL,Hollywood Brown,Receiving Yards,29.5,goblin
+NFL,Kareem Hunt,Rush+Rec Yds,69.5,demon
+NFL,Kareem Hunt,Rush+Rec Yds,74.5,demon
+NFL,Hollywood Brown,Receiving Yards,49.5,demon
+NFL,Hollywood Brown,Receiving Yards,59.5,demon
+NFL,Kareem Hunt,Rush+Rec Yds,79.5,demon
+NFL,Hollywood Brown,Receiving Yards,69.5,demon
+NFL,Kareem Hunt,Rush+Rec Yds,89.5,demon
+NFL,Saquon Barkley + Travis Kelce,Rush+Rec Yds (Combo),199.5,standard
+NFL,Hollywood Brown,Receiving Yards,79.5,demon
+NFL,Isiah Pacheco,Receiving Yards,19.5,demon
+NFL,JuJu Smith-Schuster,Receiving Yards,19.5,demon
+NFL,JuJu Smith-Schuster,Receiving Yards,24.5,demon
+NFL,JuJu Smith-Schuster,Receiving Yards,29.5,demon
+NFL,Patrick Mahomes,Pass Yards,224.5,goblin
+NFL,Kareem Hunt,Receiving Yards,19.5,demon
+NFL,Patrick Mahomes,Pass Yards,274.5,demon
+NFL,Noah Gray,Receiving Yards,19.5,demon
+NFL,Noah Gray,Receiving Yards,24.5,demon
+NFL,Noah Gray,Receiving Yards,29.5,demon
+NFL,Patrick Mahomes,Pass Yards,299.5,demon
+NFL,Patrick Mahomes,Pass Yards,324.5,demon
+NFL,Samaje Perine,Receiving Yards,19.5,demon
+NFL,Samaje Perine,Receiving Yards,24.5,demon
+NFL,Patrick Mahomes,Rush Yards,19.5,goblin
+NFL,Patrick Mahomes,Rush Yards,24.5,goblin
+NFL,Saquon Barkley,Receiving Yards,19.5,demon
+NFL,Saquon Barkley,Receiving Yards,24.5,demon
+NFL,Patrick Mahomes,Rush Yards,39.5,demon
+NFL,Patrick Mahomes,Rush Yards,49.5,demon
+NFL,Saquon Barkley,Receiving Yards,29.5,demon
+NFL,Travis Kelce,Receiving Yards,39.5,goblin
+NFL,Travis Kelce,Receiving Yards,49.5,goblin
+NFL,Travis Kelce,Receiving Yards,74.5,demon
+NFL,Travis Kelce,Receiving Yards,79.5,demon
+NFL,Travis Kelce,Receiving Yards,89.5,demon
+NFL,Saquon Barkley,Rush Yards,89.5,goblin
+NFL,Travis Kelce,Receiving Yards,99.5,demon
+NFL,Saquon Barkley,Rush Yards,99.5,goblin
+NFL,Xavier Worthy,Receiving Yards,39.5,goblin
+NFL,Saquon Barkley,Rush Yards,124.5,demon
+NFL,Saquon Barkley,Rush Yards,129.5,demon
+NFL,Xavier Worthy,Receiving Yards,49.5,goblin
+NFL,Saquon Barkley,Rush Yards,139.5,demon
+NFL,Xavier Worthy,Receiving Yards,69.5,demon
+NFL,Xavier Worthy,Receiving Yards,74.5,demon
+NFL,Saquon Barkley,Rush Yards,149.5,demon
+NFL,Xavier Worthy,Receiving Yards,79.5,demon
+NFL,Saquon Barkley,Rush+Rec Yds,99.5,goblin
+NFL,Saquon Barkley,Rush+Rec Yds,119.5,goblin
+NFL,Xavier Worthy,Receiving Yards,89.5,demon
+NFL,Kareem Hunt,Receiving Yards,4.5,goblin
+NFL,Isiah Pacheco,Receiving Yards,24.5,demon
+NFL,Saquon Barkley,Rush+Rec Yds,149.5,demon
+NFL,Saquon Barkley,Rush+Rec Yds,159.5,demon
+NFL,Travis Kelce,Receiving Yards,69.5,demon
+NFL,Saquon Barkley,Rush+Rec Yds,174.5,demon
+NFL,Kareem Hunt,Receiving Yards,24.5,demon
+NFL,JuJu Smith-Schuster,Receiving Yards,39.5,demon
+NFL,Samaje Perine,Receiving Yards,29.5,demon
+NFL,Samaje Perine,Receiving Yards,39.5,demon
+NFL,Dallas Goedert,Receiving Yards,29.5,goblin
+NFL,Saquon Barkley,Receiving Yards,39.5,demon
+NFL,Dallas Goedert,Receiving Yards,74.5,demon
+NFL,Dallas Goedert,Receiving Yards,89.5,demon
+NFL,Xavier Worthy,Rush+Rec Yds,49.5,goblin
+NFL,Xavier Worthy,Rush+Rec Yds,74.5,demon
+NFL,Xavier Worthy,Rush+Rec Yds,99.5,demon
+NFL,Dallas Goedert,Rush Yards,0.5,demon
+NFL,Jalen Hurts,Pass Attempts,31.5,demon
+NFL,Jalen Hurts,Pass Attempts,33.5,demon
+NFL,Kareem Hunt,Rush Yards,79.5,demon
+NFL,Patrick Mahomes,Pass Attempts,33.5,goblin
+NFL,Patrick Mahomes,Pass Attempts,41.5,demon
+NFL,Patrick Mahomes,Pass Attempts,43.5,demon
+NFL,Patrick Mahomes,Pass+Rush Yds,224.5,goblin
+NFL,Saquon Barkley,Longest Reception,19.5,demon
+NFL,A.J. Brown,Longest Reception,19.5,goblin
+NFL,A.J. Brown,Receptions,6.5,demon
+NFL,Dallas Goedert,Receptions,3.5,goblin
+NFL,Dallas Goedert,Receptions,5.5,demon
+NFL,DeVonta Smith,Receptions,3.5,goblin
+NFL,A.J. Brown,Receptions,5.5,demon
+NFL,A.J. Brown,Receptions,3.5,goblin
+NFL,A.J. Brown,Receptions,4.5,goblin
+NFL,Saquon Barkley,Receptions,1.5,goblin
+NFL,Jalen Hurts,Pass Attempts,24.5,goblin
+NFL,Jalen Hurts,Longest Completion,29.5,goblin
+NFL,Saquon Barkley,Receptions,3.5,demon
+NFL,Saquon Barkley,Receptions,2.5,demon
+NFL,Jalen Hurts,Pass Completions,19.5,demon
+NFL,Jalen Hurts,Longest Completion,39.5,demon
+NFL,DeVonta Smith,Receptions,5.5,demon
+NFL,A.J. Brown,Receptions,7.5,demon
+NFL,A.J. Brown,Longest Reception,29.5,demon
+NFL,Jalen Hurts,Pass Attempts,29.5,demon
+NFL,DeVonta Smith,Longest Reception,29.5,demon
+NFL,A.J. Brown,Longest Reception,39.5,demon
+NFL,Noah Gray,Receptions,2.5,demon
+NFL,Patrick Mahomes,Pass Attempts,34.5,goblin
+NFL,Patrick Mahomes,Longest Completion,29.5,goblin
+NFL,Samaje Perine,Receptions,2.5,demon
+NFL,Xavier Worthy,Receptions,5.5,demon
+NFL,Travis Kelce,Receptions,7.5,demon
+NFL,JuJu Smith-Schuster,Receptions,2.5,demon
+NFL,Travis Kelce,Longest Reception,29.5,demon
+NFL,Xavier Worthy,Longest Reception,29.5,demon
+NFL,Patrick Mahomes,Longest Completion,44.5,demon
+NFL,Travis Kelce,Receptions,4.5,goblin
+NFL,Patrick Mahomes,Longest Completion,39.5,demon
+NFL,JuJu Smith-Schuster,Longest Reception,19.5,demon
+NFL,Patrick Mahomes,Pass Completions,29.5,demon
+NFL,Hollywood Brown,Longest Reception,29.5,demon
+NFL,Isiah Pacheco,Receptions,0.5,goblin
+NFL,Noah Gray,Longest Reception,19.5,demon
+NFL,Xavier Worthy,Receptions,7.5,demon
+NFL,Isiah Pacheco,Receptions,1.5,demon
+NFL,Xavier Worthy,Receptions,4.5,goblin
+NFL,DeAndre Hopkins,Receptions,2.5,demon
+NFL,DeAndre Hopkins,Longest Reception,19.5,demon
+NFL,Hollywood Brown,Receptions,2.5,goblin
+NFL,Patrick Mahomes,Pass Attempts,39.5,demon
+NFL,Hollywood Brown,Receptions,4.5,demon
+NFL,Hollywood Brown,Receptions,5.5,demon
+NFL,Xavier Worthy,Longest Reception,19.5,goblin
+NFL,Patrick Mahomes,Longest Completion,34.5,goblin
+NFL,Jalen Hurts,Pass Attempts,25.5,goblin
+NFL,Jalen Hurts,Pass+Rush Yds,224.5,goblin
+NFL,Jalen Hurts,Pass+Rush Yds,274.5,demon
+NFL,Jalen Hurts,Pass+Rush Yds,299.5,demon
+NFL,Kareem Hunt,Rush Yards,49.5,demon
+NFL,Patrick Mahomes,INT,1.5,demon
+NFL,Patrick Mahomes,Pass+Rush Yds,249.5,goblin
+NFL,Kareem Hunt,Receptions,1.5,demon
+NFL,Patrick Mahomes,Pass+Rush Yds,299.5,demon
+NFL,Patrick Mahomes,Pass+Rush Yds,349.5,demon
+NFL,Saquon Barkley,Rush Yards,79.5,goblin
+NFL,Dallas Goedert,Receptions,6.5,demon
+NFL,Travis Kelce,Receptions,8.5,demon
+NFL,Hollywood Brown,Receptions,3.5,goblin
+NFL,Saquon Barkley,Rush Yards,109.5,goblin
+NFL,Isiah Pacheco,Receptions,2.5,demon
+NFL,Dallas Goedert,Longest Reception,29.5,demon
+NFL,Xavier Worthy,Receptions,6.5,demon
+NFL,DeVonta Smith,Receptions,6.5,demon
+NFL,Jalen Hurts,Longest Completion,44.5,demon
+NFL,Jalen Hurts,Longest Completion,24.5,goblin
+NFL,Isiah Pacheco,Rush Yards,19.5,goblin
+NFL,Patrick Mahomes,Pass+Rush Yds,274.5,goblin
+NFL,Travis Kelce,Receptions,6.5,demon
+NFL,Kareem Hunt,Receptions,0.5,goblin
+NFL,Xavier Worthy,Receptions,3.5,goblin
+NFL,Kareem Hunt,Receptions,2.5,demon
+NFL,Travis Kelce,Receptions,5.5,goblin
+NFL,Patrick Mahomes,Pass+Rush Yds,324.5,demon
+NFL,Jalen Hurts,Pass+Rush Yds,324.5,demon
+NFL,Isiah Pacheco,Rush+Rec Yds,59.5,demon
+NFL,Patrick Mahomes,Pass Completions,21.5,goblin
+NFL,Harrison Butker,Kicking Points,5.5,goblin
+NFL,Isiah Pacheco,Rush+Rec Yds,24.5,goblin
+NFL,Jake Elliott,Kicking Points,5.5,goblin
+NFL,Jahan Dotson,Receptions,1.5,demon
+NFL,Harrison Butker,Kicking Points,9.5,demon
+NFL,Jake Elliott,Kicking Points,9.5,demon
+NFL,Jalen Hurts,Pass Attempts,34.5,demon
+NFL,Patrick Mahomes,Pass Completions,27.5,demon
+NFL,Xavier Worthy,Rush Yards,19.5,demon
+NFL,Saquon Barkley,Rush Yards,159.5,demon
+NFL,Samaje Perine,Receptions,1.5,demon
+NFL,Saquon Barkley,Rush+Rec Yds,109.5,goblin
+NFL,Jalen Hurts,Pass Completions,22.5,demon
+NFL,Jalen Hurts,Pass Completions,16.5,goblin
+NFL,Patrick Mahomes,Pass Attempts,44.5,demon
