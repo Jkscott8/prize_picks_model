@@ -28,5 +28,5 @@ def extract_columns_from_csv(input_filename, output_filename):
 
 
 
-extract_columns_from_csv("NFL_Prize_picks.csv", 'NFL_PrizeProps.csv')
-extract_columns_from_csv("NBA_Prize_picks.csv", 'NBA_PrizeProps.csv')
+extract_columns_from_csv("UnusedCSV/NFL_Prize_picks.csv", 'UnusedCSV/NFL_PrizeProps.csv')
+extract_columns_from_csv("UnusedCSV/NBA_Prize_picks.csv", 'UnusedCSV/NBA_PrizeProps.csv')

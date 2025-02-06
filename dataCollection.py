@@ -14,7 +14,7 @@ HEADERS = {
     'Connection': 'keep-alive',
 }
 
-CACHE_FILE = "game_ids_cache.json"
+CACHE_FILE = "UnusedCSV/game_ids_cache.json"
 
 def save_game_ids_to_cache(game_ids):
     """Append the new game IDs to a local cache file."""
@@ -119,5 +119,5 @@ def get_games(start_date, end_date):
 
 
 #Calling the get Games Function
-#games = get_games("2022-12-01", "2023-04-09")
+games = get_games("2023-12-01", "2023-12-01")
 
